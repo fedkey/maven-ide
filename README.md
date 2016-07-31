@@ -1,4 +1,6 @@
 vim-maven-ide
+
+http://www.vim.org/scripts/script.php?script_id=4096
 =============
 
 A maven plugin for vim.
